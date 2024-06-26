@@ -1,8 +1,9 @@
  ### <div align=center> <img src="https://github.com/CibelleN94/CibelleN94/assets/154359374/41c20b85-77a2-4c33-b8f2-5f18801fc620" width="800px" /> </div>
 
+<h1> Sobre mim </h1> 
 Desde muito nova gosto de desenvolver e personalizar coisas pela Web e depois de muito tempo trabalhando em várias áreas que não tinham nada a ver com o que eu realmente me identificava, hoje me encontrei como <strong> desenvolvedora Front-End </strong> e estou no processo de transição de carreira; estudando todos os dias e me aperfeiçoando cada vez mais.
 
-<strong>🕵🏻‍♀️Curiosidades:</strong> Sou fotógrafa nas horas vagas, amo ler livros e damasco é a minha fruta preferida.
+<strong>🕵🏻‍♀️ Curiosidades:</strong> Sou fotógrafa nas horas vagas, amo ler livros e damasco é a minha fruta preferida.
 
 <h2><strong> Skills </strong></h2>
 
