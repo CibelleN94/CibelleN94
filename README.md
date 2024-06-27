@@ -3,7 +3,7 @@
 <h1> Sobre mim </h1> 
 Desde muito nova gosto de desenvolver e personalizar coisas pela Web e depois de muito tempo trabalhando em várias áreas que não tinham nada a ver com o que eu realmente me identificava, hoje me encontrei como <strong> desenvolvedora Front-End </strong> e estou no processo de transição de carreira; estudando para me aperfeiçoar cada vez mais a cada dia e juntando o útil ao agradável das coisas que eu mais gosto nessa vida: Tecnologia, Criatividade e Solucionar problemas.
 
-<strong>font-size: larger🕵🏻‍♀️ Curiosidades:</strong> Sou fotógrafa nas horas vagas, amo ler livros e damasco é a minha fruta preferida.
+<strong>🕵🏻‍♀️ Curiosidades:</strong> Sou fotógrafa nas horas vagas, amo ler livros e damasco é a minha fruta preferida.
 
 <h2><strong> Skills </strong></h2>
 
